@@ -34,7 +34,7 @@
   "license": "MIT",
   "dependencies": {
     "@fastify/cors": "^11.0.1",
-    "@modelcontextprotocol/sdk": "^1.11.0",
+    "@modelcontextprotocol/sdk": "^1.21.0",
     "@types/node-fetch": "^2.6.13",
     "chalk": "^5.4.1",
     "chrome-mcp-shared": "workspace:*",
